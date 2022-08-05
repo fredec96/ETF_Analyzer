@@ -4,4 +4,4 @@ This project consisted of building a financial database and web application by u
 
 ## Voila Example
 
-![Voila](Voila.png)
+![Voila](voila.png)
